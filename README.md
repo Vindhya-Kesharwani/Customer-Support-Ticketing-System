@@ -1,2 +1,3 @@
 # Customer-Support-Ticketing-System
-Salesforce project for managing customer support tickets.
+This is a project made in Salesforce to handle customer support tickets.
+It allows user to create tickets, track their status, and resolve them.
